@@ -75,7 +75,7 @@
     "@mui/joy": "https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/joy",
     "@mui/material": "https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material",
     "@mui/system": "https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system",
-    "@mui/types": "^7.2.15",
+    "@mui/types": "https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types",
     "@types/prop-types": "^15.7.14",
     "rimraf": "^6.0.1"
   },
