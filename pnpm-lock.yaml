@@ -84,8 +84,8 @@ importers:
         specifier: ^11.13.5
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/icons-material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/internal-babel-plugin-resolve-imports':
         specifier: 1.0.18
         version: 1.0.18(@babel/core@7.26.0)
@@ -96,14 +96,14 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/monorepo':
         specifier: github:mui/material-ui#454a4c081a3cda665d5e608e1fc3d600d14eee53
         version: https://codeload.github.com/mui/material-ui/tar.gz/454a4c081a3cda665d5e608e1fc3d600d14eee53(encoding@0.1.13)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@next/eslint-plugin-next':
         specifier: 15.0.4
         version: 15.0.4
@@ -427,31 +427,31 @@ importers:
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/docs':
         specifier: 6.1.10
-        version: 6.1.10(fbyelwerwftrmirolkqlbmwlyi)
+        version: 6.1.10(4jwsyvmejznnkf3542ntqcu77u)
       '@mui/icons-material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/joy':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/joy
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/joy(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.0.0-beta.49
+        version: 5.0.0-beta.49(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/lab':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/lab
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/lab(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.0.0-alpha.174
+        version: 5.0.0-alpha.174(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material-nextjs':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material-nextjs
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material-nextjs(@emotion/cache@11.13.5)(@emotion/server@11.11.0)(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(next@14.2.20(@babel/core@7.26.0)(@playwright/test@1.49.0)(babel-plugin-macros@3.1.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/cache@11.13.5)(@emotion/server@11.11.0)(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(next@14.2.20(@babel/core@7.26.0)(@playwright/test@1.49.0)(babel-plugin-macros@3.1.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react@19.0.0)
       '@mui/styles':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styles
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styles(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@types/react@19.0.1)(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-charts':
         specifier: workspace:*
         version: link:../packages/x-charts/build
@@ -740,8 +740,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-charts-vendor':
         specifier: workspace:*
         version: link:../x-charts-vendor
@@ -777,11 +777,11 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@react-spring/core':
         specifier: ^9.7.5
         version: 9.7.5(react@19.0.0)
@@ -814,8 +814,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-charts':
         specifier: workspace:*
         version: link:../x-charts/build
@@ -848,11 +848,11 @@ importers:
         version: 19.0.0(react@19.0.0)
     devDependencies:
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@react-spring/core':
         specifier: ^9.7.5
         version: 9.7.5(react@19.0.0)
@@ -1002,8 +1002,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-internals':
         specifier: workspace:*
         version: link:../x-internals/build
@@ -1027,17 +1027,17 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/joy':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/joy
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/joy(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.0.0-beta.49
+        version: 5.0.0-beta.49(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/types':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)
+        specifier: ^7.2.19
+        version: 7.2.19(@types/react@19.0.1)
       '@types/prop-types':
         specifier: ^15.7.14
         version: 15.7.14
@@ -1074,11 +1074,11 @@ importers:
         version: 19.0.0
     devDependencies:
       '@mui/icons-material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@types/chance':
         specifier: ^1.1.6
         version: 1.1.6
@@ -1099,8 +1099,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-data-grid':
         specifier: workspace:*
         version: link:../x-data-grid/build
@@ -1139,11 +1139,11 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@types/prop-types':
         specifier: ^15.7.14
         version: 15.7.14
@@ -1167,8 +1167,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-data-grid':
         specifier: workspace:*
         version: link:../x-data-grid/build
@@ -1201,11 +1201,11 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@types/prop-types':
         specifier: ^15.7.14
         version: 15.7.14
@@ -1226,8 +1226,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-internals':
         specifier: workspace:*
         version: link:../x-internals/build
@@ -1254,11 +1254,11 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@types/luxon':
         specifier: ^3.4.2
         version: 3.4.2
@@ -1312,8 +1312,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-date-pickers':
         specifier: workspace:*
         version: link:../x-date-pickers/build
@@ -1349,11 +1349,11 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@types/luxon':
         specifier: ^3.4.2
         version: 3.4.2
@@ -1386,8 +1386,8 @@ importers:
         specifier: ^7.26.0
         version: 7.26.0
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       react:
         specifier: ^17.0.0 || ^18.0.0 || ^19.0.0
         version: 19.0.0
@@ -1406,8 +1406,8 @@ importers:
         specifier: ^7.26.0
         version: 7.26.0
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       react:
         specifier: ^17.0.0 || ^18.0.0 || ^19.0.0
         version: 19.0.0
@@ -1432,8 +1432,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-internals':
         specifier: workspace:*
         version: link:../x-internals/build
@@ -1466,11 +1466,11 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@types/prop-types':
         specifier: ^15.7.14
         version: 15.7.14
@@ -1494,8 +1494,8 @@ importers:
         specifier: ^11.8.1
         version: 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/utils':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.6 || ^6.0.0
+        version: 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@mui/x-internals':
         specifier: workspace:*
         version: link:../x-internals/build
@@ -1534,11 +1534,11 @@ importers:
         specifier: ^1.0.22
         version: 1.0.22(@babel/core@7.26.0)(@types/react-dom@19.0.2(@types/react@19.0.1))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/system':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+        specifier: ^5.16.8
+        version: 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@types/prop-types':
         specifier: ^15.7.14
         version: 15.7.14
@@ -1562,8 +1562,8 @@ importers:
         specifier: ^11.13.5
         version: 11.13.5(@types/react@19.0.1)(react@19.0.0)
       '@mui/material':
-        specifier: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material
-        version: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+        specifier: ^5.16.11
+        version: 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/x-charts':
         specifier: workspace:*
         version: link:../packages/x-charts/build
@@ -3084,20 +3084,8 @@ packages:
     resolution: {integrity: sha512-USvgCL/uOGFtVa6SVyRrC8kIAedzRohxIXN5LISlg5C5vLZCn7dgMFVSNhSF9cuBEFrm/O2spDWEZeMnw4ZXYg==}
     engines: {node: '>=18'}
 
-  '@mui/base@5.0.0-beta.64':
-    resolution: {integrity: sha512-nu663PoZs/Pee0fkPYkjUADfT+AAi2QWvvHghDhLeSx8sa3i+GGaOoUsFmB4CPlyYqWfq9hRGA7H1T3d6VrGgw==}
-    engines: {node: '>=14.0.0'}
-    peerDependencies:
-      '@types/react': ^17.0.0 || ^18.0.0
-      react: ^17.0.0 || ^18.0.0
-      react-dom: ^17.0.0 || ^18.0.0
-    peerDependenciesMeta:
-      '@types/react':
-        optional: true
-
-  '@mui/base@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/base':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/base}
-    version: 5.0.0-beta.40
+  '@mui/base@5.0.0-beta.40':
+    resolution: {integrity: sha512-I/lGHztkCzvwlXpjD2+SNmvNQvB4227xBXhISPjEaJUXGImOQ9f3D2Yj/T3KasSI/h0MLWy74X0J6clhPmsRbQ==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       '@types/react': ^17.0.0 || ^18.0.0
@@ -3107,9 +3095,22 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/core-downloads-tracker@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/core-downloads-tracker':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/core-downloads-tracker}
-    version: 5.16.9
+  '@mui/base@5.0.0-beta.66':
+    resolution: {integrity: sha512-1SzcNbtIms0o/Dx+599B6QbvR5qUMBUjwc2Gs47h1HsF7RcEFXxqaq7zrWkIWbvGctIIPx0j330oGx/SkF+UmA==}
+    engines: {node: '>=14.0.0'}
+    peerDependencies:
+      '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
+      react: ^17.0.0 || ^18.0.0 || ^19.0.0
+      react-dom: ^17.0.0 || ^18.0.0 || ^19.0.0
+    peerDependenciesMeta:
+      '@types/react':
+        optional: true
+
+  '@mui/core-downloads-tracker@5.16.11':
+    resolution: {integrity: sha512-2eVDGg9OvIXNRmfDUQyKYH+jNcjdv1JkCH5F2YDgUye5fMX5nxGiYHAUe1BXaXyDMaLSwXC7LRksEKMiIQsFdw==}
+
+  '@mui/core-downloads-tracker@6.2.0':
+    resolution: {integrity: sha512-Nn5PSkUqbDrvezpiiiYZiAbX4SFEiy3CbikUL6pWOXEUsq+L1j50OOyyUIHpaX2Hr+5V5UxTh+fPeC4nsGNhdw==}
 
   '@mui/docs@6.1.10':
     resolution: {integrity: sha512-67NdsFGyUfd3ZHVSnOnjqnL5923j+8JyiwMEWyocOW0u1K7CoMK87QgdiYk2T64X1TMxCRr3IZdxmCBe7Rr0ag==}
@@ -3128,9 +3129,8 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/icons-material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material}
-    version: 5.16.9
+  '@mui/icons-material@5.16.11':
+    resolution: {integrity: sha512-LjIiDVGGPzessDd5uSGFYZNqrXqECLiJ9hESE6Xkk8CtGTN2m2h6iImKJpkoryNXYxulv87WLeqfTMWAfA4Igg==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       '@mui/material': ^5.0.0
@@ -3160,16 +3160,15 @@ packages:
       react: ^18.2.0
       react-dom: ^18.2.0
 
-  '@mui/joy@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/joy':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/joy}
-    version: 5.0.0-beta.48
-    engines: {node: '>=12.0.0'}
+  '@mui/joy@5.0.0-beta.49':
+    resolution: {integrity: sha512-+UPtcXgteQuiG7qYlwwLP3ukQaZHre/Dy7gK4sIDBWPTDJNx9f90aHS74QXSfHNFRen/uVuoNDBC1d6sA1jC3g==}
+    engines: {node: '>=14.0.0'}
     peerDependencies:
       '@emotion/react': ^11.5.0
       '@emotion/styled': ^11.3.0
-      '@types/react': ^17.0.0 || ^18.0.0
-      react: ^17.0.0 || ^18.0.0
-      react-dom: ^17.0.0 || ^18.0.0
+      '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
+      react: ^17.0.0 || ^18.0.0 || ^19.0.0
+      react-dom: ^17.0.0 || ^18.0.0 || ^19.0.0
     peerDependenciesMeta:
       '@emotion/react':
         optional: true
@@ -3178,9 +3177,8 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/lab@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/lab':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/lab}
-    version: 5.0.0-alpha.174
+  '@mui/lab@5.0.0-alpha.174':
+    resolution: {integrity: sha512-6jw+vcjfnDr/V4qzqwOPFwoqzxejGfm9F0k9E92QLmtFv5F0pH73OjmQDzALL7zrcwR4iV4D94iJZ1xFawiREA==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       '@emotion/react': ^11.5.0
@@ -3197,9 +3195,8 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/material-nextjs@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material-nextjs':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material-nextjs}
-    version: 5.16.8
+  '@mui/material-nextjs@5.16.8':
+    resolution: {integrity: sha512-UJhXaizQWrl3a5uXeCYyAHITXZnRBJJFCarccXk04gH5+NS9UArNl20mG6emyuPwV67UDh8DBNUSjpHd1pTVGg==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       '@emotion/cache': ^11.11.0
@@ -3216,9 +3213,8 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material}
-    version: 5.16.9
+  '@mui/material@5.16.11':
+    resolution: {integrity: sha512-uoc67oecKdnVKaMHBVE433YrMuxQs22xY5nIjRb5sAPB+GaeZQWp8brQ3/adeH6k2IDa8+9i2IVd4fNLuvHSvA==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       '@emotion/react': ^11.5.0
@@ -3239,9 +3235,8 @@ packages:
     version: 6.1.10
     engines: {pnpm: 9.14.4}
 
-  '@mui/private-theming@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/private-theming':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/private-theming}
-    version: 5.16.8
+  '@mui/private-theming@5.16.8':
+    resolution: {integrity: sha512-3Vl9yFVLU6T3CFtxRMQTcJ60Ijv7wxQi4yjH92+9YXcsqvVspeIYoocqNoIV/1bXGYfyWu5zrCmwQVHaGY7bug==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
@@ -3250,9 +3245,18 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/styled-engine@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styled-engine':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styled-engine}
-    version: 5.16.8
+  '@mui/private-theming@6.2.0':
+    resolution: {integrity: sha512-lYd2MrVddhentF1d/cMXKnwlDjr/shbO3A2eGq22PCYUoZaqtAGZMc0U86KnJ/Sh5YzNYePqTOaaowAN8Qea8A==}
+    engines: {node: '>=14.0.0'}
+    peerDependencies:
+      '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
+      react: ^17.0.0 || ^18.0.0 || ^19.0.0
+    peerDependenciesMeta:
+      '@types/react':
+        optional: true
+
+  '@mui/styled-engine@5.16.8':
+    resolution: {integrity: sha512-OFdgFf8JczSRs0kvWGdSn0ZeXxWrY0LITDPJ/nAtLEvUUTyrlFaO4il3SECX8ruzvf1VnAxHx4M/4mX9oOn9yA==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       '@emotion/react': ^11.4.1
@@ -3264,9 +3268,21 @@ packages:
       '@emotion/styled':
         optional: true
 
-  '@mui/styles@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styles':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styles}
-    version: 5.16.9
+  '@mui/styled-engine@6.2.0':
+    resolution: {integrity: sha512-rV4YCu6kcCjMnHFXU/tQcL6XfYVfFVR8n3ZVNGnk2rpXnt/ctOPJsF+eUQuhkHciueLVKpI06+umr1FxWWhVmQ==}
+    engines: {node: '>=14.0.0'}
+    peerDependencies:
+      '@emotion/react': ^11.4.1
+      '@emotion/styled': ^11.3.0
+      react: ^17.0.0 || ^18.0.0 || ^19.0.0
+    peerDependenciesMeta:
+      '@emotion/react':
+        optional: true
+      '@emotion/styled':
+        optional: true
+
+  '@mui/styles@5.16.11':
+    resolution: {integrity: sha512-sBAkVkcudptL2P0+0vktzn7KTUxW20X5si+TbgFz537xi/sewmrS+xuGV7M03veMKv1T6Vd7R3lvuChMtJLPtA==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
       '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
@@ -3275,10 +3291,25 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/system@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system}
-    version: 5.16.8
+  '@mui/system@5.16.8':
+    resolution: {integrity: sha512-L32TaFDFpGIi1g6ysRtmhc9zDgrlxDXu3NlrGE8gAsQw/ziHrPdr0PNr20O0POUshA1q14W4dNZ/z0Nx2F9lhA==}
     engines: {node: '>=12.0.0'}
+    peerDependencies:
+      '@emotion/react': ^11.5.0
+      '@emotion/styled': ^11.3.0
+      '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
+      react: ^17.0.0 || ^18.0.0 || ^19.0.0
+    peerDependenciesMeta:
+      '@emotion/react':
+        optional: true
+      '@emotion/styled':
+        optional: true
+      '@types/react':
+        optional: true
+
+  '@mui/system@6.2.0':
+    resolution: {integrity: sha512-DCeqev9Cd4f4pm3O1lqSGW/DIHHBG6ZpqMX9iIAvN4asYv+pPWv2/lKov9kWk5XThhxFnGSv93SRNE1kNRRg5Q==}
+    engines: {node: '>=14.0.0'}
     peerDependencies:
       '@emotion/react': ^11.5.0
       '@emotion/styled': ^11.3.0
@@ -3300,18 +3331,9 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/types@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types}
-    version: 7.2.15
-    peerDependencies:
-      '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
-    peerDependenciesMeta:
-      '@types/react':
-        optional: true
-
-  '@mui/utils@6.1.10':
-    resolution: {integrity: sha512-1ETuwswGjUiAf2dP9TkBy8p49qrw2wXa+RuAjNTRE5+91vtXJ1HKrs7H9s8CZd1zDlQVzUcUAPm9lpQwF5ogTw==}
-    engines: {node: '>=14.0.0'}
+  '@mui/utils@5.16.8':
+    resolution: {integrity: sha512-P/yb7BSWallQUeiNGxb+TM8epHteIUC8gzNTdPV2VfKhVY/EnGliHgt5np0GPkjQ7EzwDi/+gBevrAJtf+K94A==}
+    engines: {node: '>=12.0.0'}
     peerDependencies:
       '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
       react: ^17.0.0 || ^18.0.0 || ^19.0.0
@@ -3319,10 +3341,9 @@ packages:
       '@types/react':
         optional: true
 
-  '@mui/utils@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils':
-    resolution: {tarball: https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils}
-    version: 5.16.8
-    engines: {node: '>=12.0.0'}
+  '@mui/utils@6.2.0':
+    resolution: {integrity: sha512-77CaFJi+OIi2SjbPwCis8z5DXvE0dfx9hBz5FguZHt1VYFlWEPCWTHcMsQCahSErnfik5ebLsYK8+D+nsjGVfw==}
+    engines: {node: '>=14.0.0'}
     peerDependencies:
       '@types/react': ^17.0.0 || ^18.0.0 || ^19.0.0
       react: ^17.0.0 || ^18.0.0 || ^19.0.0
@@ -12063,12 +12084,12 @@ snapshots:
       outvariant: 1.4.3
       strict-event-emitter: 0.5.1
 
-  '@mui/base@5.0.0-beta.64(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@mui/base@5.0.0-beta.40(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
       '@floating-ui/react-dom': 2.1.2(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       '@mui/types': 7.2.19(@types/react@19.0.1)
-      '@mui/utils': 6.1.10(@types/react@19.0.1)(react@19.0.0)
+      '@mui/utils': 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@popperjs/core': 2.11.8
       clsx: 2.1.1
       prop-types: 15.8.1
@@ -12077,12 +12098,12 @@ snapshots:
     optionalDependencies:
       '@types/react': 19.0.1
 
-  '@mui/base@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/base(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@mui/base@5.0.0-beta.66(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
       '@floating-ui/react-dom': 2.1.2(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
-      '@mui/types': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)
-      '@mui/utils': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+      '@mui/types': 7.2.19(@types/react@19.0.1)
+      '@mui/utils': 6.2.0(@types/react@19.0.1)(react@19.0.0)
       '@popperjs/core': 2.11.8
       clsx: 2.1.1
       prop-types: 15.8.1
@@ -12091,16 +12112,18 @@ snapshots:
     optionalDependencies:
       '@types/react': 19.0.1
 
-  '@mui/core-downloads-tracker@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/core-downloads-tracker': {}
+  '@mui/core-downloads-tracker@5.16.11': {}
 
-  '@mui/docs@6.1.10(fbyelwerwftrmirolkqlbmwlyi)':
+  '@mui/core-downloads-tracker@6.2.0': {}
+
+  '@mui/docs@6.1.10(4jwsyvmejznnkf3542ntqcu77u)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/base': 5.0.0-beta.64(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
-      '@mui/icons-material': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+      '@mui/base': 5.0.0-beta.66(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      '@mui/icons-material': 5.16.11(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@mui/internal-markdown': 1.0.22
-      '@mui/material': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
-      '@mui/system': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+      '@mui/material': 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      '@mui/system': 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       chai: 5.1.2
       clipboard-copy: 4.0.1
       clsx: 2.1.1
@@ -12112,10 +12135,10 @@ snapshots:
     optionalDependencies:
       '@types/react': 19.0.1
 
-  '@mui/icons-material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/icons-material(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)':
+  '@mui/icons-material@5.16.11(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/material': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      '@mui/material': 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       react: 19.0.0
     optionalDependencies:
       '@types/react': 19.0.1
@@ -12185,14 +12208,14 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@mui/joy@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/joy(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@mui/joy@5.0.0-beta.49(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/base': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/base(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
-      '@mui/core-downloads-tracker': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/core-downloads-tracker
-      '@mui/system': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
-      '@mui/types': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)
-      '@mui/utils': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+      '@mui/base': 5.0.0-beta.66(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      '@mui/core-downloads-tracker': 6.2.0
+      '@mui/system': 6.2.0(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+      '@mui/types': 7.2.19(@types/react@19.0.1)
+      '@mui/utils': 6.2.0(@types/react@19.0.1)(react@19.0.0)
       clsx: 2.1.1
       prop-types: 15.8.1
       react: 19.0.0
@@ -12202,14 +12225,14 @@ snapshots:
       '@emotion/styled': 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@types/react': 19.0.1
 
-  '@mui/lab@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/lab(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@mui/lab@5.0.0-alpha.174(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/base': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/base(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
-      '@mui/material': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
-      '@mui/system': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
-      '@mui/types': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)
-      '@mui/utils': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+      '@mui/base': 5.0.0-beta.40(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      '@mui/material': 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      '@mui/system': 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+      '@mui/types': 7.2.19(@types/react@19.0.1)
+      '@mui/utils': 5.16.8(@types/react@19.0.1)(react@19.0.0)
       clsx: 2.1.1
       prop-types: 15.8.1
       react: 19.0.0
@@ -12219,10 +12242,10 @@ snapshots:
       '@emotion/styled': 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
       '@types/react': 19.0.1
 
-  '@mui/material-nextjs@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material-nextjs(@emotion/cache@11.13.5)(@emotion/server@11.11.0)(@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(next@14.2.20(@babel/core@7.26.0)(@playwright/test@1.49.0)(babel-plugin-macros@3.1.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react@19.0.0)':
+  '@mui/material-nextjs@5.16.8(@emotion/cache@11.13.5)(@emotion/server@11.11.0)(@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(@types/react@19.0.1)(next@14.2.20(@babel/core@7.26.0)(@playwright/test@1.49.0)(babel-plugin-macros@3.1.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/material': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      '@mui/material': 5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       next: 14.2.20(@babel/core@7.26.0)(@playwright/test@1.49.0)(babel-plugin-macros@3.1.0)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       react: 19.0.0
     optionalDependencies:
@@ -12230,13 +12253,13 @@ snapshots:
       '@emotion/server': 11.11.0
       '@types/react': 19.0.1
 
-  '@mui/material@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/material(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
+  '@mui/material@5.16.11(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/core-downloads-tracker': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/core-downloads-tracker
-      '@mui/system': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
-      '@mui/types': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)
-      '@mui/utils': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+      '@mui/core-downloads-tracker': 5.16.11
+      '@mui/system': 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+      '@mui/types': 7.2.19(@types/react@19.0.1)
+      '@mui/utils': 5.16.8(@types/react@19.0.1)(react@19.0.0)
       '@popperjs/core': 2.11.8
       '@types/react-transition-group': 4.4.11
       clsx: 2.1.1
@@ -12265,16 +12288,25 @@ snapshots:
       - supports-color
       - utf-8-validate
 
-  '@mui/private-theming@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/private-theming(@types/react@19.0.1)(react@19.0.0)':
+  '@mui/private-theming@5.16.8(@types/react@19.0.1)(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/utils': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+      '@mui/utils': 5.16.8(@types/react@19.0.1)(react@19.0.0)
       prop-types: 15.8.1
       react: 19.0.0
     optionalDependencies:
       '@types/react': 19.0.1
 
-  '@mui/styled-engine@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styled-engine(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(react@19.0.0)':
+  '@mui/private-theming@6.2.0(@types/react@19.0.1)(react@19.0.0)':
+    dependencies:
+      '@babel/runtime': 7.26.0
+      '@mui/utils': 6.2.0(@types/react@19.0.1)(react@19.0.0)
+      prop-types: 15.8.1
+      react: 19.0.0
+    optionalDependencies:
+      '@types/react': 19.0.1
+
+  '@mui/styled-engine@5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
       '@emotion/cache': 11.13.5
@@ -12285,13 +12317,26 @@ snapshots:
       '@emotion/react': 11.13.5(@types/react@19.0.1)(react@19.0.0)
       '@emotion/styled': 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
 
-  '@mui/styles@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styles(@types/react@19.0.1)(react@19.0.0)':
+  '@mui/styled-engine@6.2.0(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(react@19.0.0)':
+    dependencies:
+      '@babel/runtime': 7.26.0
+      '@emotion/cache': 11.13.5
+      '@emotion/serialize': 1.3.3
+      '@emotion/sheet': 1.4.0
+      csstype: 3.1.3
+      prop-types: 15.8.1
+      react: 19.0.0
+    optionalDependencies:
+      '@emotion/react': 11.13.5(@types/react@19.0.1)(react@19.0.0)
+      '@emotion/styled': 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+
+  '@mui/styles@5.16.11(@types/react@19.0.1)(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
       '@emotion/hash': 0.9.2
-      '@mui/private-theming': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/private-theming(@types/react@19.0.1)(react@19.0.0)
-      '@mui/types': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)
-      '@mui/utils': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+      '@mui/private-theming': 5.16.8(@types/react@19.0.1)(react@19.0.0)
+      '@mui/types': 7.2.19(@types/react@19.0.1)
+      '@mui/utils': 5.16.8(@types/react@19.0.1)(react@19.0.0)
       clsx: 2.1.1
       csstype: 3.1.3
       hoist-non-react-statics: 3.3.2
@@ -12308,13 +12353,29 @@ snapshots:
     optionalDependencies:
       '@types/react': 19.0.1
 
-  '@mui/system@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/system(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)':
+  '@mui/system@5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/private-theming': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/private-theming(@types/react@19.0.1)(react@19.0.0)
-      '@mui/styled-engine': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/styled-engine(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(react@19.0.0)
-      '@mui/types': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)
-      '@mui/utils': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)
+      '@mui/private-theming': 5.16.8(@types/react@19.0.1)(react@19.0.0)
+      '@mui/styled-engine': 5.16.8(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(react@19.0.0)
+      '@mui/types': 7.2.19(@types/react@19.0.1)
+      '@mui/utils': 5.16.8(@types/react@19.0.1)(react@19.0.0)
+      clsx: 2.1.1
+      csstype: 3.1.3
+      prop-types: 15.8.1
+      react: 19.0.0
+    optionalDependencies:
+      '@emotion/react': 11.13.5(@types/react@19.0.1)(react@19.0.0)
+      '@emotion/styled': 11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)
+      '@types/react': 19.0.1
+
+  '@mui/system@6.2.0(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0)':
+    dependencies:
+      '@babel/runtime': 7.26.0
+      '@mui/private-theming': 6.2.0(@types/react@19.0.1)(react@19.0.0)
+      '@mui/styled-engine': 6.2.0(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@emotion/styled@11.13.5(@emotion/react@11.13.5(@types/react@19.0.1)(react@19.0.0))(@types/react@19.0.1)(react@19.0.0))(react@19.0.0)
+      '@mui/types': 7.2.19(@types/react@19.0.1)
+      '@mui/utils': 6.2.0(@types/react@19.0.1)(react@19.0.0)
       clsx: 2.1.1
       csstype: 3.1.3
       prop-types: 15.8.1
@@ -12328,11 +12389,7 @@ snapshots:
     optionalDependencies:
       '@types/react': 19.0.1
 
-  '@mui/types@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)':
-    optionalDependencies:
-      '@types/react': 19.0.1
-
-  '@mui/utils@6.1.10(@types/react@19.0.1)(react@19.0.0)':
+  '@mui/utils@5.16.8(@types/react@19.0.1)(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
       '@mui/types': 7.2.19(@types/react@19.0.1)
@@ -12344,10 +12401,10 @@ snapshots:
     optionalDependencies:
       '@types/react': 19.0.1
 
-  '@mui/utils@https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/utils(@types/react@19.0.1)(react@19.0.0)':
+  '@mui/utils@6.2.0(@types/react@19.0.1)(react@19.0.0)':
     dependencies:
       '@babel/runtime': 7.26.0
-      '@mui/types': https://pkg.csb.dev/mui/material-ui/commit/a0262017/@mui/types(@types/react@19.0.1)
+      '@mui/types': 7.2.19(@types/react@19.0.1)
       '@types/prop-types': 15.7.14
       clsx: 2.1.1
       prop-types: 15.8.1
