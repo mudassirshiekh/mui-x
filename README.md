@@ -46,6 +46,7 @@ Get started in the [MUI X documentation](https://mui.com/x/introduction/).
 - [Tree View installation](https://mui.com/x/react-tree-view/getting-started/#installation)
 
 ## Licensing
+## By Mudassir Alam
 
 The MUI X team has been building MIT-licensed React components since 2014, starting with Material UI, and we're committed to the continued advancement of our open-source libraries.
 Anything we release under an MIT license will remain MIT-licensed forever.
